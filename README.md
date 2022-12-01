@@ -12,10 +12,10 @@ SO THAT I can reliably retrieve them for later use
 
 ## Usage
 To run and use this text editor through VS Code:
-    1. Install the packages and dependencies needed using ``npm i``
-    2. Build and start using ``npm build``, ``npm start``, or ``npm start dev``
-    3. Go to localhost:3000 and begin to use the text editor
-    4. To install the app, click the download icon at the right end of the search bar at the top of the browser window on Google Chrome
+1. Install the packages and dependencies needed using ``npm i``
+2. Build and start using ``npm build``, ``npm start``, or ``npm start dev``
+3. Go to localhost:3000 and begin to use the text editor
+4. To install the app, click the download icon at the right end of the search bar at the top of the browser window on Google Chrome
 
 ## Author
 [Valeria Alarcon](https://github.com/valeriaalarcon1)
